@@ -5,3 +5,4 @@ Muitos dos prejetos salvos não tiveram atualizações recentes para aprimoramen
 
  As seguintes pastas são codigos de projetos feitos com o uso do microcontrolador stm32f103c8t6, vulgo Blue Pill.
 Use a vontade para intuitos de aprendizado
+![Logo do Projeto](https://github.com/Llezzado/repositorio/blob/main/images/logo.png)
